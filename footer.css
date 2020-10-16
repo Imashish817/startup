@@ -5,6 +5,10 @@ section {
     padding: 60px 0;
 }
 
+body {
+    font-family: 'Montserrat';
+}
+
 h1 {
     color: rgb(44, 45, 48);
     text-align: center;
